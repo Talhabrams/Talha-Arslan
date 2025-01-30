@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Deadlock
-- 🌱 I’m currently learning Deadlock
-- 👯 I’m looking to collaborate on Deadlock
-- 🤔 I’m looking for help with Deadlock
-- 💬 Ask me about Deadlock
-- 📫 How to reach me: Deadlock
-- 😄 Pronouns: Deadlock
+- 🔭 I’m currently working on Python Code
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with Nike
+- 🤔 I’m looking for help in Life
+- 💬 Ask me about Life
+- 📫 How to reach me: Via Phone or Discord
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I like Deadlock
